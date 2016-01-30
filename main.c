@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+//header file contains reverse_string declaration
 #include<myheader.h>
 
 int main()
